@@ -1,7 +1,4 @@
-# example-submission-repository
-
-
-You may submit all the exercises of this course into the same repository, or use multiple repositories. If you submit exercises of different parts into the same repository, please use a sensible naming scheme for the directories.
+# Full Stack open 2022
 
 One very functional file structure for the submission repository is as follows:
 
